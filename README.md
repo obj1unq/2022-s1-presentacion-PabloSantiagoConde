@@ -8,6 +8,8 @@
 
 -  Estudio la carrera de Licenciatura en Informática desde 2019 en la Universidad Nacional de Quilmes. 
 -  Actualmente me encuentro cursando por primera vez la materia de POO.
+-  Tengo 23 años y vivo en Quilmes.
+-  Como hobbie suelo salir a andar en bicicleta, hacer cursos o tocar la guitarra.
 
 
 
