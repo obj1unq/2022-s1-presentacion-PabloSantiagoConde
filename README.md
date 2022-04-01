@@ -2,12 +2,12 @@
 
 ## Estudiante: _Pablo Santiago Conde_
 
-Soy estudiante de la Universidad Nacional de Quilmes y es la primera vez que curso la materia de Programación Orientada a Objetos. 
+**Bienvenidos a mi perfil**
 
-![Menu_202](https://github.com/obj1unq/2022-s1-presentacion-PabloSantiagoConde/blob/master/66170259_2578065202206410_2234622512891691008_n.jpg)
-Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios, similar al paso anterior.
+![Menu_202](https://github.com/obj1unq/2022-s1-presentacion-PabloSantiagoConde/blob/master/66170259_2578065202206410_2234622512891691008_n.jpg "Salta 2019")
 
-- [ ] **Agregar algo sobre vos**. Editá el README nuevamente para agregar algo sobre vos. Podés borrar y agregar lo que quieras. Dejalo como te guste!
-]
-- [ ] **Mirá la presentación de tus compas**. Una vez que terminaste, andá al [Github del curso](https://github.com/obj1unq) y mirá las presentaciones de tus compas. Haceles comentarios en la parte de _Issues_, despus volvé y respondé los issues de tu presentación.
+- [] Estudio la carrera de Licenciatura en Informática desde 2019 en la Universidad Nacional de Quilmes. 
+- [] Actualmente me encuentro cursando por primera vez la materia de POO.
+
+
 
