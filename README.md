@@ -4,10 +4,7 @@
 
 Soy estudiante de la Universidad Nacional de Quilmes y es la primera vez que curso la materia de Programación Orientada a Objetos. 
 
-
-
-
-- [ ] **Subir una foto tuya**. Para esto pueden usar la opción para subir archivos que es bastante intuitiva.![Menu_202](https://user-images.githubusercontent.com/4098184/89341973-7e345580-d678-11ea-9a96-7c117034f81a.png)
+![Menu_202](https://github.com/obj1unq/2022-s1-presentacion-PabloSantiagoConde/blob/master/66170259_2578065202206410_2234622512891691008_n.jpg)
 Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios, similar al paso anterior.
 
 - [ ] **Agregar algo sobre vos**. Editá el README nuevamente para agregar algo sobre vos. Podés borrar y agregar lo que quieras. Dejalo como te guste!
